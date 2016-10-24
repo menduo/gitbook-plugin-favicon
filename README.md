@@ -8,7 +8,7 @@ Add it to your `book.json` configuration:
 
 ```json
 {
-    plugins: ["favicon"]
+    "plugins": ["favicon"]
 }
 ```
 
