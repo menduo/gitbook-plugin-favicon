@@ -1,0 +1,20 @@
+{
+  "name": "gitbook-plugin-favicon",
+  "description": "add favicon to gitbook site",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+      "gitbook": ">=3.2.2"
+    },
+  "keywords": [
+    "gitbook",
+    "favicon",
+    "apple-touch-icon"
+  ],
+  "homepage": "https://github.com/menduo/gitbook-plugin-favicon",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/menduo/gitbook-plugin-favicon.git"
+    },
+  "license": "MIT"
+}
