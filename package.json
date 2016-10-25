@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "engines": {
-      "gitbook": ">=3.2.2"
+      "gitbook": "*"
     },
   "keywords": [
     "gitbook",
